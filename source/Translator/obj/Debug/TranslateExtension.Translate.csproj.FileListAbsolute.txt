@@ -1,0 +1,6 @@
+C:\Users\tniemenmaa\Documents\Visual Studio 2013\Projects\TranslateMyCode\Translator\bin\Debug\Translator.dll.config
+C:\Users\tniemenmaa\Documents\Visual Studio 2013\Projects\TranslateMyCode\Translator\bin\Debug\Translator.dll
+C:\Users\tniemenmaa\Documents\Visual Studio 2013\Projects\TranslateMyCode\Translator\bin\Debug\Translator.pdb
+C:\Users\tniemenmaa\Documents\Visual Studio 2013\Projects\TranslateMyCode\Translator\obj\Debug\TranslateExtension.Translate.csprojResolveAssemblyReference.cache
+C:\Users\tniemenmaa\Documents\Visual Studio 2013\Projects\TranslateMyCode\Translator\obj\Debug\Translator.dll
+C:\Users\tniemenmaa\Documents\Visual Studio 2013\Projects\TranslateMyCode\Translator\obj\Debug\Translator.pdb
