@@ -1,6 +1,0 @@
-C:\Users\tniemenmaa\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Tomi Niemenmaa\TranslateExtension\1.0\\TranslateExtension.dll
-C:\Users\tniemenmaa\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Tomi Niemenmaa\TranslateExtension\1.0\\Translator.dll
-C:\Users\tniemenmaa\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Tomi Niemenmaa\TranslateExtension\1.0\\TranslateExtension.pkgdef
-C:\Users\tniemenmaa\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Tomi Niemenmaa\TranslateExtension\1.0\\extension.vsixmanifest
-C:\Users\tniemenmaa\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Tomi Niemenmaa\TranslateExtension\1.0\\TranslateExtension.pdb
-C:\Users\tniemenmaa\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Tomi Niemenmaa\TranslateExtension\1.0\\Translator.pdb
